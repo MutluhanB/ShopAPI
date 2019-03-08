@@ -1,8 +1,7 @@
 # ShopAPI
 RESTful API with flask, flask-restful
 
-#End Points
-
+![Application Endpoints](https://raw.githubusercontent.com/MutluhanB/ShopAPI/master/endpoints.png)
 
 
 #Dependencies
